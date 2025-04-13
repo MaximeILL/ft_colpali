@@ -1,4 +1,4 @@
-## **ColPali : Fine-tuning using multi hard negative pairwise loss**
+## **ColPali : Fine-tuning using a Multi Hard Negative Pairwise loss**
 ### **Improving Multimodal Retrieval**  
 *Hard negative mining, increasing training difficulty*
 
